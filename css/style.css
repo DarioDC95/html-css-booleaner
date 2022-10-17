@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+#sfondo-superiore {
+    background-image: url("./pattern.png");
+    background-size: 300px;
+    background-color: blueviolet;
+    height: 80px;
+    position: relative;
+}
+
+#logo {
+    height: 40px;
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+.grey-text {
+    color: grey;
+}
+
+#blueviolet-text {
+    color: blueviolet;
+}
+
+.litle-text {
+    font-size: 10px;
+}
+
+#foto-Tim {
+    margin-top: 25px;
+}
+
+#lista {
+    padding-left: 15px;
+}
+
+thead {
+    background-color: blueviolet;
+    color: white;
+}
