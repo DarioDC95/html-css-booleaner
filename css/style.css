@@ -3,7 +3,7 @@
 }
 
 #sfondo-superiore {
-    background-image: url("./img/pattern.png");
+    background-image: url("../img/pattern.png");
     background-size: 300px;
     background-color: blueviolet;
     height: 80px;
@@ -25,6 +25,10 @@ h1 {
     color: grey;
 }
 
+.testo-giallo {
+    background-color: yellow;
+}
+
 #blueviolet-text {
     color: blueviolet;
 }
@@ -41,11 +45,43 @@ h1 {
     padding-left: 15px;
 }
 
+table {
+    border-spacing: 0;
+}
+
 #testa {
     background-color: blueviolet;
     color: white;
+    text-align: left;
+}
+
+.colonna-larga {
+    width: 60%;
 }
 
 .corpo {
     background-color: lightblue;
+}
+
+h4 {
+    color: grey;
+}
+
+#monitor {
+    background-image: url("../img/monitor.jpg");
+    width: 200px;
+    height: 150px;
+    background-size: contain;
+}
+
+h3 {
+    color: white;
+    padding: 5%;
+}
+
+#grafico {
+    background-image: url("../img/graph.jpg");
+    width: 200px;
+    height: 150px;
+    background-size: contain;
 }
