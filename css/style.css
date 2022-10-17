@@ -41,7 +41,11 @@ h1 {
     padding-left: 15px;
 }
 
-thead {
+#testa {
     background-color: blueviolet;
     color: white;
+}
+
+.corpo {
+    background-color: lightblue;
 }
